@@ -1,0 +1,6 @@
+# github actions
+.github                                             @BitGo/btc-team @BitGo/infra @BitGo/velocity
+renovate.json                                       @BitGo/btc-team @BitGo/infra @BitGo/velocity
+
+## THIS SHOULD ALWAYS BE LAST ##
+* @BitGo/btc-team
