@@ -1,6 +1,6 @@
 # github actions
-.github                                             @BitGo/btc-team @BitGo/infra @BitGo/velocity
-renovate.json                                       @BitGo/btc-team @BitGo/infra @BitGo/velocity
+.github                                             @BitGo/btc-team @BitGo/infra
+renovate.json                                       @BitGo/btc-team @BitGo/infra
 
 ## THIS SHOULD ALWAYS BE LAST ##
 * @BitGo/btc-team
